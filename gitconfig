@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = boramlee340@gmail.com
+	name = Boram Lee
